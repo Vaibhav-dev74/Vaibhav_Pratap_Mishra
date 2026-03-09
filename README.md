@@ -28,6 +28,15 @@
 
 ---
 
+# 🌐 Portfolio
+
+💼 Check out my personal portfolio website:
+
+🔗 **Portfolio Website**  
+https://portfolio-sepia-ten-20.vercel.app/
+
+---
+
 # 🛠 Tech Stack
 
 ### 💻 Programming Languages
@@ -76,9 +85,10 @@ https://ltcecomputerdepartment.netlify.app/
 Automated student attendance system using **QR code scanning and geo-fencing**.
 
 ### Features
-- QR code attendance
-- Geo-location verification
-- Automatic attendance logging
+
+- QR code attendance  
+- Geo-location verification  
+- Automatic attendance logging  
 
 ---
 
@@ -87,6 +97,7 @@ Automated student attendance system using **QR code scanning and geo-fencing**.
 IoT based smart glasses designed to assist visually impaired people.
 
 ### Features
+
 - Object detection using **YOLO**
 - Image capture using **ESP32-CAM**
 - Voice feedback via **Bluetooth**
@@ -99,25 +110,26 @@ IoT based smart glasses designed to assist visually impaired people.
 Smart IoT dustbin capable of **automatic waste detection and segregation**.
 
 ### Technologies
-- Raspberry Pi
-- Python
-- Sensors
-- Mobile monitoring application
+
+- Raspberry Pi  
+- Python  
+- Sensors  
+- Mobile monitoring application  
 
 ---
 
 # 💼 Internship Experience
 
-### Python Developer Intern — CodeSprint
+### Python Developer Intern — CodeSprint  
 📅 June 2024 – August 2024
 
-- Developed automation scripts using Python
-- Built applications using Python libraries
-- Worked on data analysis tasks
+- Developed automation scripts using Python  
+- Built applications using Python libraries  
+- Worked on data analysis tasks  
 
 ---
 
-### IBM SkillsBuild Summer Internship
+### IBM SkillsBuild Summer Internship  
 📅 June – August 2024
 
 - Worked on **IoT based TrashBot system**
@@ -156,29 +168,7 @@ Smart IoT dustbin capable of **automatic waste detection and segregation**.
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-dev74&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav-dev74&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
-
-<p>
 
 📧 Email  
 mishravaibhavpratap@gmail.com  
@@ -187,9 +177,10 @@ mishravaibhavpratap@gmail.com
 https://www.linkedin.com/in/vaibhav-pratap-mishra  
 
 💻 GitHub  
-https://github.com/Vaibhav-dev74
+https://github.com/Vaibhav-dev74  
 
-</p>
+🌐 Portfolio  
+https://portfolio-sepia-ten-20.vercel.app/
 
 ---
 
