@@ -182,8 +182,3 @@ https://github.com/Vaibhav-dev74
 🌐 Portfolio  
 https://portfolio-sepia-ten-20.vercel.app/
 
----
-
-<p align="center">
-⭐ If you like my work, consider giving my repositories a star!
-</p>
